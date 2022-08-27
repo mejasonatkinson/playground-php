@@ -2,6 +2,8 @@
 
 A place to learn more about php, and try things. 
 
+you may need to run: apachectl start
+
 ## resources
 
 https://www.w3schools.com/php/
