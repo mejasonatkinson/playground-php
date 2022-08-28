@@ -7,7 +7,7 @@
     <title>w3schools Playground</title>
 </head>
 <body>
-    
+
     <?php 
         // Syntax
         // anything written inbetween these 2 brackets is php 
@@ -20,6 +20,9 @@
     <?php
 
         // Variables
+
+        $name = "jason";
+        $age = 30;
 
         // Variables scope
 
