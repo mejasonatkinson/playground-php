@@ -4,16 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index</title>
+    <title>Net Ninja Playground</title>
 </head>
 <body>
-    <ul>
-        <li>
-            <a href="w3school/index.php">w3school</a>
-        </li>
-        <li>
-            <a href="netninja/index.php">Net Ninja; Object Oriented PHP</a>
-        </li>
-    </ul>
+    <h1>Net Ninja Playground</h1>
+
+    <?php 
+
+    ?>
+
 </body>
 </html>

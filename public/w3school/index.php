@@ -7,6 +7,8 @@
     <title>w3schools Playground</title>
 </head>
 <body>
+    
+    <h1>w3schools Playground</h1>
 
     <?php 
         // Syntax
