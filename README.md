@@ -4,12 +4,12 @@ A place to learn more about php, and try things.
 
 Run this: `apachectl start` to start the server
 
-Q: What is apache and why do I need it to run php?
+Q: What is apache? and why do I need it to run php?
 
 ## resources
 
 - [w3schools](https://www.w3schools.com/php/)
-- [net ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy)
+- [net ninja; Object Oriented PHP](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNpT-yVAYxNWOmxjxL51Hy)
 
 <!-- 
 
