@@ -9,7 +9,13 @@
 </head>
 <body>
     <h1>Net Ninja Playground</h1>
-    <h2>Object Oriented PHP #~ - ~~~~~~~~~</h2>
+    <h2>Object Oriented PHP #2 - Intro to Classes</h2>
+
+    <?php
+    
+    // php
+    
+    ?>
 
 </body>
 </html>
