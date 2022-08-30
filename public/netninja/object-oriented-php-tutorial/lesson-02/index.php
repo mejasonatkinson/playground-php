@@ -11,11 +11,19 @@
     <h1>Net Ninja Playground</h1>
     <h2>Object Oriented PHP #2 - Intro to Classes</h2>
 
-    <?php
-    
-    // php
-    
+    <?php 
+
+        class User {
+
+        }
+
+        $userOne = new User();
+        $userTwo = new User();
+
+        echo 'the class is: ' . get_class($userOne);
+
     ?>
+
 
 </body>
 </html>
