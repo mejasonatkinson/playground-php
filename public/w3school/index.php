@@ -23,18 +23,13 @@
 
         // Variables
 
-        $name = "jason";
-        $age = 30;
-
         // Variables scope
 
         // Output
 
         // Echo
-        echo "Hello world";
 
         // Print
-        print "Hello world";
 
         // Data types:
 
