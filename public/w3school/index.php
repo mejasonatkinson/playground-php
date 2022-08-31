@@ -10,26 +10,11 @@
     
     <h1>w3schools Playground</h1>
 
-    <?php 
-        // Syntax
-        // anything written inbetween these 2 brackets is php 
-    ?>
-
-    <?php 
-        // Comments 
-    ?>
-    
     <?php
 
         // Variables
 
         // Variables scope
-
-        // Output
-
-        // Echo
-
-        // Print
 
         // Data types:
 
