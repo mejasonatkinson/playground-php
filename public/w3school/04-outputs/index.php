@@ -11,9 +11,14 @@
     <h1>w3schools Playground</h1>
     <h2>Outputs</h2>
 
-    <?php 
-
-    ?>
+    <ul>
+        <li>
+            <a href="01-echo/index.php">01-echo</a>
+        </li>
+        <li>
+            <a href="02-print/index.php">02-print</a>
+        </li>
+    </ul>
 
 </body>
 </html>
