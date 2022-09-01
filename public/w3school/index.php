@@ -10,6 +10,24 @@
     
     <h1>w3schools Playground</h1>
 
+    <ul>
+        <li>
+            <a href="01-syntax/index.php">01-syntax</a>
+        </li>
+        <li>
+            <a href="02-comments/index.php">02-comments</a>
+        </li>
+        <li>
+            <a href="03-variables/index.php">03-variables</a>
+        </li>
+        <li>
+            <a href="04-outputs/index.php">04-outputs</a>
+        </li>
+        <li>
+            <a href="05-data-types/index.php">05-data-types</a>
+        </li>
+    </ul>
+
     <?php
 
         // Variables
