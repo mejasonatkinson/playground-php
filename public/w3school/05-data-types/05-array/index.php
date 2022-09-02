@@ -13,6 +13,22 @@
 
     <?php 
 
+        // An array stores multiple values in one single variable.
+
+        // The PHP var_dump() function returns the data type and value
+
+        $cars = array("Volvo","BMW","Toyota");
+        var_dump($cars); 
+
+        // array(3) {
+        //     [0]=>
+        //     string(5) "Volvo"
+        //     [1]=>
+        //     string(3) "BMW"
+        //     [2]=>
+        //     string(6) "Toyota"
+        //   }
+
     ?>
 
 </body>
