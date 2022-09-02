@@ -13,6 +13,13 @@
 
     <?php 
 
+        // A float (floating point number) is a number with a decimal point or a number in exponential form
+
+        // The PHP var_dump() function returns the data type and value
+
+        $x = 10.365;
+        var_dump($x); // float(10.365)
+
     ?>
 
 </body>
