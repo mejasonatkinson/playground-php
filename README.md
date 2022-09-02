@@ -2,9 +2,7 @@
 
 A place to learn more about php, and try things. 
 
-Run this: `apachectl start` to start the server
-
-Q: What is apache? and why do I need it to run php?
+27/08/22 - 02/09/22
 
 ## resources
 
