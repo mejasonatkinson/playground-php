@@ -4,6 +4,8 @@ A place to learn more about php, and try things.
 
 27/08/22 - 02/09/22
 
+## Notes
+
 ## Resources
 
 - [w3schools](https://www.w3schools.com/php/)
